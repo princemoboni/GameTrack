@@ -27,7 +27,7 @@ include 'nav.php';
         <div class="box-content">
             <div class="box-wrapper">
                 SNIPER GHOST<span class="name">ORDER NOW</span>
-                <div class="row">119 likes - 1,826 views</div>
+                <div class="row">119 likes - 1,856 views</div>
             </div>
         </div>
         <div class="box-overlay magictime" data-hover="tinUpOut" data-return="tinUpIn">
@@ -40,7 +40,7 @@ include 'nav.php';
         <div class="box-content">
             <div class="box-wrapper">
                 BATTLEFIELD 1<span class="name">ORDER NOW</span>
-                <div class="row">135 likes - 1,296 views</div>
+                <div class="row">135 likes - 1,496 views</div>
             </div>
         </div>
         <div class="box-overlay magictime" data-hover="tinRightOut" data-return="tinRightIn">
